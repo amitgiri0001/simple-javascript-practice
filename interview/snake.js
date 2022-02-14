@@ -121,5 +121,5 @@ function setDirection(action) {
     }
 }
 
-const message = ['FLERFF', 'EEEELLLL', 'FELRLRRLLLLREFRELREL', 'FELLRERRER'].map(findLoop);
+const message = ['FLERFF', 'EEEELLLL', 'FELRLRRLLLLREFRELREL', 'FLLL'].map(findLoop);
 console.log(message);
